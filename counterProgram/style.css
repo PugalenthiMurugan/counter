@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+#counterLabel{
+    font-size: 15em;
+    font-family:sans-serif;
+    color: hsl(0, 86%, 52%);
+}
+.btns{
+    font-size: 2em;
+    font-family: cursive;
+    padding: 15px;
+    border-radius: 7px;
+    background-color: aquamarine;
+    margin: 10px;
+}
+h1{
+    font-size: 4em;
+    color: hsl(283, 91%, 32%);
+}
